@@ -31,3 +31,18 @@ sudo docker ps -a
 ```
 
 <img width="1087" height="68" alt="image" src="https://github.com/user-attachments/assets/216a737e-7a8f-49e0-b3c7-ce96021fc304" />
+
+## Задача 2
+
+
+```bash
+sudo docker images
+```
+
+<img width="741" height="132" alt="image" src="https://github.com/user-attachments/assets/7fc22291-acd7-45f1-bd8b-e3bc71cf9564" />
+
+
+
+
+
+
